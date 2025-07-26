@@ -49,7 +49,7 @@ The Python package `python-nmap` is only a wrapper; you need to install the Nmap
 
 - **Windows:**
 
-```Download and install from [https://nmap.org/download.html](https://nmap.org/download.html).```
+```Download and install from``` [https://nmap.org/download.html](https://nmap.org/download.html).
 
 ## 🚀 Usage
 
@@ -106,7 +106,7 @@ Contributions, pull requests, and new feature ideas are welcome! Please respect 
 
 ## 📄 License
 
-Released under the MIT License — see the `LICENSE` file for details.
+Released under the MIT License — see the `[License](https://github.com/uustuff/Hescan/blob/main/LICENSE)` file for details.
 
 ---
 
