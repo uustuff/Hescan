@@ -1,6 +1,6 @@
 # HeScan
 
-**HeScan** is a modular, hacker-style, multi-function network reconnaissance and vulnerability analysis tool, inspired by frameworks like Metasploit but designed for simplicity and power. With live host discovery, WiFi scanning, deep port and web vulnerability scans, IP lookups, and more, HeScan is your versatile command-line Swiss Army knife for security tasks.
+**HeScan** is a modular, multi-function network reconnaissance and vulnerability analysis tool. With live host discovery, WiFi scanning, deep port and web vulnerability scans, IP lookups, and more, HeScan is your versatile command-line Swiss Army knife for security tasks.
 
 ## 🚩 Features
 
