@@ -49,7 +49,7 @@ The Python package `python-nmap` is only a wrapper; you need to install the Nmap
 
 - **Windows:**
 
-`Download and install from [https://nmap.org/download.html](https://nmap.org/download.html).`
+```Download and install from [https://nmap.org/download.html](https://nmap.org/download.html).```
 
 ## 🚀 Usage
 
@@ -89,23 +89,6 @@ HeScan is for **educational and authorized security testing only**.
 Do not scan or probe any network or system without explicit permission.  
 Unauthorized scanning is illegal and unethical.
 
-## 🛠️ Project Structure
-
-hescan/
-├── main.py
-├── banner.py
-├── menu.py
-├── utils.py
-├── network_scan.py
-├── wifi_scan.py
-├── port_scan.py
-├── vuln_scan.py
-├── ip_lookup.py
-├── url_scan.py
-├── requirements.txt
-├── init.py (optional but recommended)
-
-
 ## 💡 Credits & Inspiration
 
 - Inspired by frameworks and tools such as Metasploit, Nmap, Scapy.  
@@ -114,7 +97,7 @@ hescan/
   - [python-nmap](https://xael.org/pages/python-nmap-en.html)  
   - [requests](https://docs.python-requests.org/en/latest/)
 
-**Created by:** Your Name Here  
+**Created by:** agent-502
 **Year:** 2025
 
 ## 🌟 Contributing
