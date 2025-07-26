@@ -39,17 +39,17 @@ The Python package `python-nmap` is only a wrapper; you need to install the Nmap
 
 - **Linux (Debian/Ubuntu):**
 
-sudo apt install nmap
+`sudo apt install nmap`
 
 
 - **macOS (with Homebrew):**
 
-brew install nmap
+`brew install nmap`
 
 
 - **Windows:**
 
-Download and install from [https://nmap.org/download.html](https://nmap.org/download.html).
+`Download and install from [https://nmap.org/download.html](https://nmap.org/download.html).`
 
 ## 🚀 Usage
 
