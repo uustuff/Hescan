@@ -111,4 +111,4 @@ Released under the MIT License — see the [`License`](https://github.com/uustuf
 
 ---
 
-**Happy hacking (responsibly) with HeScan!** 🚀
+**Happy scanning with HeScan!** 🚀
