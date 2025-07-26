@@ -18,15 +18,16 @@
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/hescan.git
-cd hescan
+`git clone https://github.com/agent-502/Hescan.git`
+
+`cd Hescan`
 
 
 ### 2. Install Dependencies
 
 Make sure you have Python 3.x installed, then run:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 > **Note:**  
@@ -55,14 +56,14 @@ The Python package `python-nmap` is only a wrapper; you need to install the Nmap
 
 ### Running HeScan
 
-From the **parent directory** (the folder containing `hescan/`):
+From the **CMD**:
 
-python -m hescan
+`python -m hescan`
 
 
-Or if you created the optional run script (`run.py`):
+Or just run the script (*run.py*):
 
-python run.py
+`python run.py`
 
 
 ### Available Options in the Menu
@@ -106,7 +107,7 @@ Contributions, pull requests, and new feature ideas are welcome! Please respect 
 
 ## 📄 License
 
-Released under the MIT License — see the `[License](https://github.com/uustuff/Hescan/blob/main/LICENSE)` file for details.
+Released under the MIT License — see the [`License`](https://github.com/uustuff/Hescan/blob/main/LICENSE) file for details.
 
 ---
 
